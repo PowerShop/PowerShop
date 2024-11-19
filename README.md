@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kittisak Sakmeang
+- 👋 Hi, I’m Kittisak Sakmeang aka PowerShop
 - 🏢 I'm an intern at [API Innovation Co., Ltd.](https://www.facebook.com/apiinnovation/?locale=th_TH)
 
 <!---
